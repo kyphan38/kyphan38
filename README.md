@@ -1,5 +1,4 @@
 ### Hi there 👋
-I am Ky Phan, and I am currently pursuing a Bachelor's degree in Data Sicence from Ho Chi Minh University of Sience
+I am Ky Phan, and I am a Data Science undergraduate student at Ho Chi Minh University of Science.
 
-My research primarily focuses on Machine Learning and Big Data. Besides, I am well-versed in using several popular frameworks, such as TensorFlow, Scikit-learn, PyTorch, Spark, Hive, Hadoop, Kafka, and Airflow, ...
-
+My primary research focuses on Machine Learning and Big Data. Additionally, I am well-versed in working with several popular frameworks, such as TensorFlow, Scikit-learn, PyTorch, Spark, Hive, Hadoop, Kafka, Airflow and so on.
